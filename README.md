@@ -1,4 +1,4 @@
-# Runner Data Storage (Unity 6)
+# Runner Data Storage 
 
 Demonstrates two ways to store data in Unity: **ScriptableObjects** and **PlayerPrefs**. 
 

@@ -1,7 +1,7 @@
 using UnityEngine;
 
 
-[CreateAssetMenu(fileName = "NewCharacter", menuName = "Temple Run/Character Data")]
+[CreateAssetMenu(fileName = "NewCharacter", menuName = "Runner/Character Data")]
 public class CharacterData : ScriptableObject
 {
     public string characterName;
